@@ -9,7 +9,7 @@ namespace EPHRS
     {
         private static readonly List<Employee> Employees = new List<Employee>(); // starts empty
         private static int _nextId = 1001;
-   private const string AppTitle = "EPHRS - Feature Branch Edition";
+   private const string AppTitle = "EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM";
 
         private static void Main()
         {
