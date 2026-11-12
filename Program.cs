@@ -9,7 +9,7 @@ namespace EPHRS
     {
         private static readonly List<Employee> Employees = new List<Employee>(); // starts empty
         private static int _nextId = 1001;
-        private const string AppTitle = "EPHRS - Main Branch Edition";
+   private const string AppTitle = "EPHRS - Final Merged Edition";
 
         private static void Main()
         {
